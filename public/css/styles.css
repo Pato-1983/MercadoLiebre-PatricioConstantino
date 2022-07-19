@@ -364,6 +364,10 @@ form.login-form .form-div input::placeholder{
     color: #0331ea
 }
 
+footer i:hover {
+    color: skyblue
+}
+
 .beneficios {
     display: flex;
     flex-direction: column;
